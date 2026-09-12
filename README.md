@@ -1,3 +1,5 @@
+🌐 **[Открыть веб-версию](https://ancient-city-exporter.trutchdinaro.chatgpt.site)** — работает прямо в браузере, без установки. Расчёт выполняется на вашем устройстве; сид не отправляется на сервер. Есть копирование строки для скрипта и скачивание .txt.
+
 # Ancient City Exporter
 
 Офлайн-тулка для поиска городов вардена (Ancient City) по сиду Minecraft Java Edition. Выдаёт готовую строку **`X Z; X Z; X Z`** для Warden Shrieker Loot.
